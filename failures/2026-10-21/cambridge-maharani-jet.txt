@@ -4,7 +4,7 @@ Patty&Bun - Cambridge
 No min. order
 Fees:
 Delivery
-£1.79
+£1.49
 Service £0.99 - £2.99
 
 Fees apply, add to basket to see total price
@@ -86,7 +86,7 @@ Soft Drinks
 Soft Drinks
 Basket
 Delivery
-Open 16:00
+20-35 min
 Collection
 Unavailable
 Fill your basket
@@ -94,7 +94,7 @@ Your basket is empty
 No min. order
 Fees:
 Delivery
-£1.79
+£1.49
 Service £0.99 - £2.99
 
 Fees apply, add to basket to see total price
@@ -107,7 +107,5 @@ Cookie Statement
 Report Vulnerability
 Ethics Hotline
 © 2026 Just Eat
-
-Patty&Bun - Cambridge restaurant menu in Cambridge - Order from Just Eat
 
 You can now save your favourite restaurants, groceries and businesses

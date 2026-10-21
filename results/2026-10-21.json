@@ -1,17 +1,17 @@
 [
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Bedford (Andreas Kebabs)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:51",
+  "detail": "Serve health check 17:51",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Bedford (Andreas Kebabs)",
   "platform": "UBR",
@@ -21,7 +21,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Bedford (Andreas Kebabs)",
   "platform": "JET",
@@ -31,27 +31,27 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Fulham (Bishops)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:51",
+  "detail": "Serve health check 17:51",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Fulham (Bishops)",
   "platform": "UBR",
-  "status": "blocked",
-  "detail": "captcha",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
   "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-fulham/gQHQ3qMmW9OIKXpAs5Xprw"
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Fulham (Bishops)",
   "platform": "JET",
@@ -61,17 +61,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Hitchin (Dallas Chicken)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:52",
+  "detail": "Serve health check 17:53",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Hitchin (Dallas Chicken)",
   "platform": "UBR",
@@ -81,7 +81,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Hitchin (Dallas Chicken)",
   "platform": "JET",
@@ -91,17 +91,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Jazzy's Munch Box",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:50",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Jazzy's Munch Box",
   "platform": "UBR",
@@ -111,7 +111,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Jazzy's Munch Box",
   "platform": "JET",
@@ -121,17 +121,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Cambridge (Maharani)",
   "platform": "ROO",
-  "status": "offline",
-  "detail": "Serve health check 13:50",
+  "status": "online",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Cambridge (Maharani)",
   "platform": "UBR",
@@ -141,7 +141,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Cambridge (Maharani)",
   "platform": "JET",
@@ -151,17 +151,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Corby (TJ's)",
   "platform": "ROO",
-  "status": "offline",
-  "detail": "Serve health check 13:50",
+  "status": "online",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Corby (TJ's)",
   "platform": "UBR",
@@ -171,7 +171,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Super Awesome Deluxe",
   "site": "Corby (TJ's)",
   "platform": "JET",
@@ -181,17 +181,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Fulham (Bishops)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:51",
+  "detail": "Serve health check 17:51",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Fulham (Bishops)",
   "platform": "UBR",
@@ -201,7 +201,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Fulham (Bishops)",
   "platform": "JET",
@@ -211,17 +211,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Soundwell (Smashing)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:50",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Soundwell (Smashing)",
   "platform": "UBR",
@@ -231,7 +231,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Soundwell (Smashing)",
   "platform": "JET",
@@ -241,17 +241,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Cambridge (Maharani)",
   "platform": "ROO",
-  "status": "offline",
-  "detail": "Serve health check 13:50",
+  "status": "online",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Cambridge (Maharani)",
   "platform": "UBR",
@@ -261,7 +261,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Cambridge (Maharani)",
   "platform": "JET",
@@ -271,17 +271,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Clifton (Clifton Burgers)",
   "platform": "ROO",
-  "status": "offline",
-  "detail": "Serve health check 13:50",
+  "status": "online",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Clifton (Clifton Burgers)",
   "platform": "UBR",
@@ -291,7 +291,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Clifton (Clifton Burgers)",
   "platform": "JET",
@@ -301,17 +301,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Southampton (Cha Sha)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:53",
+  "detail": "Serve health check 17:53",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Southampton (Cha Sha)",
   "platform": "UBR",
@@ -321,7 +321,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Southampton (Cha Sha)",
   "platform": "JET",
@@ -331,17 +331,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Manchester (Frankie's)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:51",
+  "detail": "Serve health check 17:51",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Manchester (Frankie's)",
   "platform": "UBR",
@@ -351,7 +351,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Manchester (Frankie's)",
   "platform": "JET",
@@ -361,17 +361,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Bournemouth (Roosters)",
   "platform": "ROO",
   "status": "online",
-  "detail": "Serve health check 13:53",
+  "detail": "Serve health check 17:53",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Bournemouth (Roosters)",
   "platform": "UBR",
@@ -381,7 +381,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Patty & Bun",
   "site": "Bournemouth (Roosters)",
   "platform": "JET",
@@ -391,17 +391,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "West Reading (Devil's Kitchen)",
   "platform": "ROO",
   "status": "offline",
-  "detail": "Serve health check 13:52",
+  "detail": "Serve health check 17:53",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "West Reading (Devil's Kitchen)",
   "platform": "UBR",
@@ -411,7 +411,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "West Reading (Devil's Kitchen)",
   "platform": "JET",
@@ -421,17 +421,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Romford (Route1)",
   "platform": "ROO",
   "status": "offline",
-  "detail": "Serve health check 13:50",
+  "detail": "Serve health check 17:50",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Romford (Route1)",
   "platform": "UBR",
@@ -441,7 +441,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Romford (Route1)",
   "platform": "JET",
@@ -451,17 +451,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Cheam (Stone Pizza and Grill)",
   "platform": "ROO",
   "status": "offline",
-  "detail": "Serve health check 13:52",
+  "detail": "Serve health check 17:52",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Cheam (Stone Pizza and Grill)",
   "platform": "UBR",
@@ -471,7 +471,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Cheam (Stone Pizza and Grill)",
   "platform": "JET",
@@ -481,17 +481,17 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Aldershot (Taste Of Milan)",
   "platform": "ROO",
   "status": "offline",
-  "detail": "Serve health check 13:51",
+  "detail": "Serve health check 17:51",
   "url": ""
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Aldershot (Taste Of Milan)",
   "platform": "UBR",
@@ -501,7 +501,7 @@
  },
  {
   "check_date": "2026-10-21",
-  "checked_at": "2026-10-21T14:30:23.414568+01:00",
+  "checked_at": "2026-10-21T20:26:43.891091+01:00",
   "brand": "Bun & Sum (new sites)",
   "site": "Aldershot (Taste Of Milan)",
   "platform": "JET",

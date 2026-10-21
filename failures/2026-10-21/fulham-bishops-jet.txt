@@ -4,7 +4,7 @@ Patty&Bun - Fulham
 No min. order
 Fees:
 Delivery
-£0.99
+£0.79
 Service £0.99 - £2.99
 Small order £0.00 - £2.00
 
@@ -111,7 +111,7 @@ Your basket is empty
 No min. order
 Fees:
 Delivery
-£0.99
+£0.79
 Service £0.99 - £2.99
 Small order £0.00 - £2.00
 

@@ -38,9 +38,9 @@ Super Awesome Deluxe
 3:30 PM – 9:00 PM
 
 Featured items
+Buy 1, get 1 free
 Meal Deals
 Burgers
-Chicken Burgers
 Fries
 Sides
 Dips
@@ -52,22 +52,18 @@ Featured items
 #1 most liked
 House Cheeseburger
 £11.50
+Buy 1, get 1 free
 #2 most liked
-Caramelised Onion Chicken Burger
-£11.50
-#3 most liked
-House Chicken Burger
-£11.00
 Caramelised Onion Cheeseburger
 £12.00
+Buy 1, get 1 free
+#3 most liked
 Deluxe Pulled Brisket Cheeseburger
 £13.00
 Sea Salt Fries
 £4.00
 Deluxe Meal Deal For 2
 £30.00
-Spicy Chicken Burger
-£11.50
 Cinnamon Bun Bites
 £3.50
 Loaded Animal Fries
@@ -80,6 +76,15 @@ Coke
 £2.50
 Mac & Cheese Bites
 £5.00
+Buy 1, get 1 free
+House Cheeseburger
+£11.50
+Artisan bun, shredded little gem lettuce, smoky house sauce, double grass-fed beef smashed patties with melted cheese, pickles
+Buy 1, get 1 free
+Caramelised Onion Cheeseburger
+£12.00
+Artisan bun, shredded little gem lettuce, house sauce, double grass-fed beef smashed patties with melted cheese, mustard drizzle, caramelised and crispy onions
+Buy 1, get 1 free
 Meal Deals
 Super Meal Deal For 1
 £15.00
@@ -95,30 +100,17 @@ Burgers
 House Cheeseburger
 £11.50
 Artisan bun, shredded little gem lettuce, smoky house sauce, double grass-fed beef smashed patties with melted cheese, pickles
-Popular
+Buy 1, get 1 free
 Spicy Cheeseburger
 £12.00
 Artisan bun, shredded little gem lettuce, double grass-fed beef smashed patties with melted cheese, pickled Red Roquito Pepper, spicy mayo
 Caramelised Onion Cheeseburger
 £12.00
 Artisan bun, shredded little gem lettuce, house sauce, double grass-fed beef smashed patties with melted cheese, mustard drizzle, caramelised and crispy onions
+Buy 1, get 1 free
 Deluxe Pulled Brisket Cheeseburger
 £13.00
 Artisan bun, house sauce, shredded little gem lettuce, double grass-fed beef smashed patties with melted cheese, BBQ pulled beef brisket.
-Chicken Burgers
-House Chicken Burger
-£11.00
-Artisan bun, shredded little gem lettuce, smoky house sauce, house-brined, double-fried chicken, pickles
-Spicy Chicken Burger
-£11.50
-Artisan bun, shredded little gem lettuce, house-brined, double-fried chicken, pickled Red Roquito Pepper, spicy mayo
-Caramelised Onion Chicken Burger
-£11.50
-Artisan bun, shredded little gem lettuce, house sauce, house-brined, double-fried chicken, mustard drizzle, caramelised and crispy onions
-Popular
-Deluxe Chicken & Pulled Brisket Burger
-£12.50
-Artisan bun, house sauce, shredded little gem lettuce, house-brined, double-fried chicken, BBQ pulled Brisket
 Fries
 Sea Salt Fries
 £4.00

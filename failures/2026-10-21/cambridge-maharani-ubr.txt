@@ -36,6 +36,7 @@ Patty & Bun
 4:00 PM – 10:30 PM
 
 Featured items
+Buy 1, get 1 free
 Meal Deals
 Burgers
 Sides
@@ -47,16 +48,20 @@ Featured items
 #1 most liked
 Ari Gold
 £13.50
+Buy 1, get 1 free
 #2 most liked
 Buffalo Chic
 £13.50
+Buy 1, get 1 free
 #3 most liked
 Hot Chic
 £13.50
+Buy 1, get 1 free
 Cheese & Onion Fries
 £5.50
 The Don
 £14.00
+Buy 1, get 1 free
 Bundle Wonder for 1
 £21.00
 Rosemary Salt Fries
@@ -75,6 +80,23 @@ Coke
 £2.49
 Chicken Tenders
 £7.50
+Buy 1, get 1 free
+Ari Gold
+£13.50
+Dry Aged Beef Patty, Cheese, Lettuce, Pickled Onions, Ketchup, Smokey P&B Mayo, Bun
+Buy 1, get 1 free
+The Don
+£14.00
+Dry Aged Beef Patty, Beef Butter, American Cheese, Onions, Mayo, Bun
+Buy 1, get 1 free
+Buffalo Chic
+£13.50
+Crispy Fried Chicken Breast, Pickled Red Chillies, Buffalo Hot Sauce, Shredded Lettuce, Ranch Mayo, Bun
+Buy 1, get 1 free
+Hot Chic
+£13.50
+Crispy Fried Chicken Breast, Pickled Cucumbers, Lettuce, Confit Garlic Aioli, Bun
+Buy 1, get 1 free
 Meal Deals
 Meal Deal for 1
 £16.00
@@ -90,23 +112,25 @@ Burgers
 Ari Gold
 £13.50
 Dry Aged Beef Patty, Cheese, Lettuce, Pickled Onions, Ketchup, Smokey P&B Mayo, Bun
-Popular
+Buy 1, get 1 free
 Jose Jose
 £12.50
 Dry Aged Beef Patty, Cheese, Chilli Jose Relish, Pickled Onions, Ketchup, Smokey P&B Mayo, Lettuce, Bun
 The Don
 £14.00
 Dry Aged Beef Patty, Beef Butter, American Cheese, Onions, Mayo, Bun
+Buy 1, get 1 free
 Holy Truffle
 £12.50
 Dry Aged Beef Patty, Black Truffle mayo, Smokey Onions, Parmesan, American Cheese, Bun
 Hot Chic
 £13.50
 Crispy Fried Chicken Breast, Pickled Cucumbers, Lettuce, Confit Garlic Aioli, Bun
+Buy 1, get 1 free
 Buffalo Chic
 £13.50
 Crispy Fried Chicken Breast, Pickled Red Chillies, Buffalo Hot Sauce, Shredded Lettuce, Ranch Mayo, Bun
-Popular
+Buy 1, get 1 free
 Veggie Ari Gold
 £10.00
 Plant-based Meat Patty, Red Leicester, Lettuce, Pickled Onions, Ketchup, Smokey P&B Mayo, Bun
@@ -117,13 +141,13 @@ Sides
 Rosemary Salt Fries
 £5.00
 Skin on fries seasoned with rosemary salt
-Popular
 Chilli Loaded Fries
 £8.00
 Rosemary Fries, Jose Jose Relish, Smoked Garlic Mayo, Grated Hard Cheese.
 Cheese & Onion Fries
 £5.50
 Fries, Grated Hard Cheese, Cheese Sauce, Crispy Fried Onions, Spring Onions
+Popular
 Truffle Parmesan Fries
 £6.00
 Rosemary chips, truffle oil, grated hard cheese
