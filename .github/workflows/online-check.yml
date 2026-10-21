@@ -7,38 +7,39 @@ on:
     - cron: "0 20 * * *"
   workflow_dispatch: {}   # lets you run it by hand from the Actions tab
 
+permissions:
+  contents: write         # so the run can save results into the repository
+
 jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
-      - name: Only run at 20:00 London time (skip the other cron)
-        if: github.event_name == 'schedule'
-        run: |
-          H=$(TZ=Europe/London date +%H)
-          echo "London hour is $H"
-          if [ "$H" != "20" ]; then echo "Not 8pm London; skipping"; exit 78; fi
-        continue-on-error: true
+      - name: Is it 20:00 London? (manual runs always proceed)
         id: gate
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "go=yes" >> "$GITHUB_OUTPUT"; exit 0; fi
+          H=$(TZ=Europe/London date +%H); echo "London hour is $H"
+          if [ "$H" = "20" ]; then echo "go=yes" >> "$GITHUB_OUTPUT"; else echo "go=no" >> "$GITHUB_OUTPUT"; fi
 
       - name: Checkout
-        if: steps.gate.outcome != 'failure'
+        if: steps.gate.outputs.go == 'yes'
         uses: actions/checkout@v4
 
       - name: Set up Python
-        if: steps.gate.outcome != 'failure'
+        if: steps.gate.outputs.go == 'yes'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install
-        if: steps.gate.outcome != 'failure'
+        if: steps.gate.outputs.go == 'yes'
         run: |
-          pip install playwright google-cloud-bigquery gspread
+          pip install playwright google-cloud-bigquery
           python -m playwright install --with-deps chromium
 
       - name: Google login (your own read-only credentials, from the secret)
-        if: steps.gate.outcome != 'failure'
+        if: steps.gate.outputs.go == 'yes'
         run: |
           echo "$GOOGLE_CREDENTIALS_JSON" > "$RUNNER_TEMP/gcred.json"
           echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/gcred.json" >> "$GITHUB_ENV"
@@ -47,15 +48,14 @@ jobs:
           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
 
       - name: Run the check
-        if: steps.gate.outcome != 'failure'
+        if: steps.gate.outputs.go == 'yes'
         run: python online_check.py
-        env:
-          SHEET_ID: ${{ secrets.SHEET_ID }}
 
-      - name: Keep tonight's local result file for 30 days
-        if: steps.gate.outcome != 'failure'
-        uses: actions/upload-artifact@v4
-        with:
-          name: results
-          path: results/
-          retention-days: 30
+      - name: Save results into the repository
+        if: steps.gate.outputs.go == 'yes'
+        run: |
+          git config user.name "online-check bot"
+          git config user.email "actions@github.com"
+          git add results failures || true
+          git commit -m "Online check $(TZ=Europe/London date +'%Y-%m-%d %H:%M')" || echo "nothing to commit"
+          git push
