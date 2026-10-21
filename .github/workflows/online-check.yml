@@ -1,0 +1,61 @@
+name: Nightly online check
+
+on:
+  schedule:
+    # GitHub cron is UTC. Both fire; the London-hour step lets only the 20:00 London run through.
+    - cron: "0 19 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}   # lets you run it by hand from the Actions tab
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Only run at 20:00 London time (skip the other cron)
+        if: github.event_name == 'schedule'
+        run: |
+          H=$(TZ=Europe/London date +%H)
+          echo "London hour is $H"
+          if [ "$H" != "20" ]; then echo "Not 8pm London; skipping"; exit 78; fi
+        continue-on-error: true
+        id: gate
+
+      - name: Checkout
+        if: steps.gate.outcome != 'failure'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.gate.outcome != 'failure'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        if: steps.gate.outcome != 'failure'
+        run: |
+          pip install playwright google-cloud-bigquery gspread
+          python -m playwright install --with-deps chromium
+
+      - name: Google login (your own read-only credentials, from the secret)
+        if: steps.gate.outcome != 'failure'
+        run: |
+          echo "$GOOGLE_CREDENTIALS_JSON" > "$RUNNER_TEMP/gcred.json"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/gcred.json" >> "$GITHUB_ENV"
+          echo "GOOGLE_CLOUD_PROJECT=sessions-core-data" >> "$GITHUB_ENV"
+        env:
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+
+      - name: Run the check
+        if: steps.gate.outcome != 'failure'
+        run: python online_check.py
+        env:
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+
+      - name: Keep tonight's local result file for 30 days
+        if: steps.gate.outcome != 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: results
+          path: results/
+          retention-days: 30
