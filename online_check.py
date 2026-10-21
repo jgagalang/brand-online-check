@@ -76,7 +76,7 @@ def deliveroo_status(sites: list[dict], today: dt.date) -> dict[tuple[str, str],
     brands = sorted({s["brand"].split(" (")[0] for s in sites})
     sql = f"""
       SELECT venueId, brandName, publishData.deliveroo.isLive AS live,
-             FORMAT_TIMESTAMP('%H:%M', publishData.deliveroo.healthCheckAt, 'Europe/London') AS at
+             FORMAT_TIMESTAMP('%H:%M', publishData.deliveroo.healthCheckAt, 'Europe/London') AS checked
       FROM `{PROJECT}.serve.prod_venues_direct_delivery_menu_status`
       WHERE calendar_id = {today.strftime('%Y%m%d')} AND brandName IN UNNEST(@brands)
       QUALIFY ROW_NUMBER() OVER (PARTITION BY venueId, brandName ORDER BY hour DESC, updatedAt DESC) = 1
@@ -85,7 +85,7 @@ def deliveroo_status(sites: list[dict], today: dt.date) -> dict[tuple[str, str],
         query_parameters=[bigquery.ArrayQueryParameter("brands", "STRING", brands)]))
     out = {}
     for r in job.result():
-        out[(r["venueId"], r["brandName"])] = ("online" if r["live"] else "offline", f"Serve health check {r['at']}")
+        out[(r["venueId"], r["brandName"])] = ("online" if r["live"] else "offline", f"Serve health check {r['checked']}")
     return out
 
 
