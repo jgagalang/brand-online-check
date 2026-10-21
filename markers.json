@@ -1,0 +1,16 @@
+{
+  "_comment": "Text patterns the script looks for on each platform's consumer page. Regex, case-insensitive. Order matters: 'offline' lists are checked before 'online'. This is the only file the repair step edits.",
+  "_version": "2026-10-21",
+  "UBR": {
+    "anchor": "Store info",
+    "offline": ["\\bclosed\\b", "opens (at|on) ", "currently unavailable", "not accepting orders",
+                "\\b(mon|tue|wed|thu|fri|sat|sun) \\d{1,2}:\\d{2} (am|pm)"],
+    "online":  ["open until \\d{1,2}:\\d{2} (am|pm)", "\\d{1,2}:\\d{2} (am|pm) \\u2013 \\d{1,2}:\\d{2} (am|pm)"]
+  },
+  "JET": {
+    "anchor": "Basket",
+    "offline": ["delivery unavailable", "delivery (mon|tue|wed|thu|fri|sat|sun) \\d{1,2}:\\d{2}", "temporarily (offline|closed|unavailable)", "currently closed"],
+    "online":  ["delivery \\d{1,3}\\s*-\\s*\\d{1,3} min"]
+  },
+  "blocked": ["captcha", "access denied", "verify you are human", "unusual traffic"]
+}
