@@ -1,0 +1,512 @@
+[
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Bedford (Andreas Kebabs)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:51",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Bedford (Andreas Kebabs)",
+  "platform": "UBR",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-harpur/hXzjXrcoUyqswoIUeYUE0A"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Bedford (Andreas Kebabs)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-super-awesome-deluxe---harpur-bedford/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Fulham (Bishops)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:51",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Fulham (Bishops)",
+  "platform": "UBR",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-fulham/gQHQ3qMmW9OIKXpAs5Xprw"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Fulham (Bishops)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-super-awesome-deluxe---munster-fulham/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Hitchin (Dallas Chicken)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:53",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Hitchin (Dallas Chicken)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-hitchin-bearton/7nCzmFTFVcuTJqzu4frMvQ"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Hitchin (Dallas Chicken)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-super-awesome-deluxe---hitchin-bearton-hitchin/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Jazzy's Munch Box",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Jazzy's Munch Box",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-heston-central-%26-lampton-west/JRbCJptWWr2E8JriogGosA"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Jazzy's Munch Box",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-super-awesome-deluxe---heston-and-lampton-west-heston/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Cambridge (Maharani)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Cambridge (Maharani)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-coleridge/W27NWKjzU32z7HY4W83VjA"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Cambridge (Maharani)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-super-awesome-deluxe---coleridge-cambridge/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Corby (TJ's)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Corby (TJ's)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/super-awesome-deluxe-smashburgers-fries-%26-sides-corby-town/0JfY58DjXpqIW29_UtDhag"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Super Awesome Deluxe",
+  "site": "Corby (TJ's)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-super-awesome-deluxe---corby-town-gretton/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Fulham (Bishops)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:51",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Fulham (Bishops)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-fulham/AG98fK2gUuKIhoP_Y1oVVw"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Fulham (Bishops)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-pattyandbun---munster-fulham/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Soundwell (Smashing)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Soundwell (Smashing)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-staple-hill-south-%26-kingswood-north-west/vd38AsorVSGN04q0cXkxjQ"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Soundwell (Smashing)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-pattyandbun---staple-hill-south-and-kingswood-bristol/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Cambridge (Maharani)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Cambridge (Maharani)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-coleridge/0Wz_bywIXu-6GyvXxrrjpA"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Cambridge (Maharani)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-pattyandbun----cambridge/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Clifton (Clifton Burgers)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Clifton (Clifton Burgers)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-bristol-city-centre/FIpcpJPjUoSIT8c2Jw0P0Q"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Clifton (Clifton Burgers)",
+  "platform": "JET",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Southampton (Cha Sha)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:54",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Southampton (Cha Sha)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-st-denys/REr_BDmCWJ-ZkYKo1sFyWA"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Southampton (Cha Sha)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-pattyandbun---st-denys-portswood/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Manchester (Frankie's)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:51",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Manchester (Frankie's)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-gorse-hill/AndFuA8AW2Og_S3tlNtSEg"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Manchester (Frankie's)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-pattyandbun---gorse-hill-manchester/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Bournemouth (Roosters)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:53",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Bournemouth (Roosters)",
+  "platform": "UBR",
+  "status": "blocked",
+  "detail": "captcha",
+  "url": "https://www.ubereats.com/store/patty%26bun-east-cliff/icbxMtikV4aw30FjKifYUg"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Patty & Bun",
+  "site": "Bournemouth (Roosters)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-pattyandbun---east-cliff-bournemouth/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "West Reading (Devil's Kitchen)",
+  "platform": "ROO",
+  "status": "offline",
+  "detail": "Serve health check 18:53",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "West Reading (Devil's Kitchen)",
+  "platform": "UBR",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "West Reading (Devil's Kitchen)",
+  "platform": "JET",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Romford (Route1)",
+  "platform": "ROO",
+  "status": "online",
+  "detail": "Serve health check 18:50",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Romford (Route1)",
+  "platform": "UBR",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Romford (Route1)",
+  "platform": "JET",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Cheam (Stone Pizza and Grill)",
+  "platform": "ROO",
+  "status": "offline",
+  "detail": "Serve health check 18:53",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Cheam (Stone Pizza and Grill)",
+  "platform": "UBR",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Cheam (Stone Pizza and Grill)",
+  "platform": "JET",
+  "status": "unknown",
+  "detail": "no marker matched; page saved for repair",
+  "url": "https://www.just-eat.co.uk/restaurants-bun-and-sum---cheam-high-street-sutton/menu"
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Aldershot (Taste Of Milan)",
+  "platform": "ROO",
+  "status": "offline",
+  "detail": "Serve health check 18:51",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Aldershot (Taste Of Milan)",
+  "platform": "UBR",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ },
+ {
+  "check_date": "2026-10-25",
+  "checked_at": "2026-10-25T20:08:37.712195+00:00",
+  "brand": "Bun & Sum (new sites)",
+  "site": "Aldershot (Taste Of Milan)",
+  "platform": "JET",
+  "status": "n/a",
+  "detail": "not set up on this platform",
+  "url": ""
+ }
+]
