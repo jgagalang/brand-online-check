@@ -1,0 +1,8 @@
+www.just-eat.co.uk
+Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+
+Ray ID: a524edbe5981ce40
+Performance and Security by Cloudflare
+Privacy
